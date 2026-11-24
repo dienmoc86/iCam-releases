@@ -1,17 +1,26 @@
 # iCam PC
 
-Phần mềm quay, chụp và livestream màn hình cho Windows — gọn nhẹ, đẹp mắt, làm cho người Việt.
+Phần mềm quay, chụp và livestream màn hình cho **Windows** và **macOS** — gọn nhẹ, đẹp mắt, làm cho người Việt.
 
 ## ⬇️ Tải về
 
-**[Tải iCam bản mới nhất (iCam-Setup.exe)](https://github.com/dienmoc86/iCam-releases/releases/latest/download/iCam-Setup.exe)**
+| Máy của bạn | Tải bộ cài |
+|---|---|
+| 🪟 **Windows 10 / 11** (64-bit) | [**⬇️ Tải cho Windows**](https://github.com/dienmoc86/iCam-releases/releases/latest/download/iCam-Setup.exe) · iCam-Setup.exe |
+| 🍎 **macOS 14 Sonoma trở lên** | [**⬇️ Tải cho macOS**](https://github.com/dienmoc86/iCam-releases/releases/download/v3.5.0-macos/iCam-macOS.dmg) · Apple Silicon M1–M4 · bản 3.5.0-macos |
 
-Hoặc xem mọi phiên bản và ghi chú thay đổi ở mục [Releases](https://github.com/dienmoc86/iCam-releases/releases).
+Mọi phiên bản và ghi chú thay đổi: mục [Releases](https://github.com/dienmoc86/iCam-releases/releases).
 
-- Chạy trên Windows 10 và Windows 11, bản 64-bit.
-- Cài cho riêng tài khoản đang dùng, không cần quyền quản trị.
-- Nếu Windows hiện "Windows đã bảo vệ máy tính của bạn": bấm **Thông tin bổ sung** → **Vẫn chạy**.
-- Đã cài rồi thì không cần tải lại: iCam tự báo khi có bản mới, bấm **Cập nhật ngay** là xong.
+### Cài trên Windows
+- Chạy file `iCam-Setup.exe` → **Tiếp theo** → **Cài đặt**. Cài cho riêng tài khoản đang dùng, không cần quyền quản trị.
+- Nếu Windows hiện bảng xanh "Windows đã bảo vệ máy tính của bạn": bấm **Thông tin bổ sung** → **Vẫn chạy**.
+
+### Cài trên macOS
+- Mở file `.dmg`, kéo **iCam** vào thư mục **Applications**.
+- Lần đầu mở, nếu macOS báo không xác minh được nhà phát triển: vào **Cài đặt hệ thống → Quyền riêng tư & Bảo mật** → bấm **Vẫn mở** (hoặc chuột phải vào iCam → **Mở**).
+- Cho phép iCam các quyền **Ghi màn hình & âm thanh hệ thống**, **Micro**, **Camera** khi được hỏi; chụp cuộn trang dài cần thêm quyền **Trợ năng**.
+
+Đã cài rồi thì không cần tải lại: iCam tự báo khi có bản mới, bấm **Cập nhật ngay** là xong.
 
 ## iCam làm được gì
 
@@ -23,7 +32,7 @@ Hoặc xem mọi phiên bản và ghi chú thay đổi ở mục [Releases](http
 - **Trích chữ tiếng Việt (OCR)**, chụp cuộn trang dài, ghim ảnh lên màn hình.
 - **Cắt video, xuất GIF, gửi nhanh qua Zalo.**
 
-Phím tắt mặc định: **F12** quay · **F11** chụp màn hình · **Ctrl+Shift+A** chụp vùng.
+Phím tắt mặc định: **F12** quay · **F11** chụp màn hình · **Ctrl+Shift+A** chụp vùng (trên Mac, bấm kèm **fn** nếu phím F đang dùng chỉnh âm lượng / độ sáng; đổi được trong Cài đặt).
 
 ## Tác giả
 
