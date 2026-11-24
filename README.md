@@ -7,7 +7,7 @@ Phần mềm quay, chụp và livestream màn hình cho **Windows** và **macOS*
 | Máy của bạn | Tải bộ cài |
 |---|---|
 | 🪟 **Windows 10 / 11** (64-bit) | [**⬇️ Tải cho Windows**](https://github.com/dienmoc86/iCam-releases/releases/latest/download/iCam-Setup.exe) · iCam-Setup.exe |
-| 🍎 **macOS 14 Sonoma trở lên** | [**⬇️ Tải cho macOS**](https://github.com/dienmoc86/iCam-releases/releases/download/v3.5.0-macos/iCam-macOS.dmg) · Apple Silicon M1–M4 · bản 3.5.0-macos |
+| 🍎 **macOS 14 Sonoma trở lên** | [**⬇️ Tải cho macOS**](https://github.com/dienmoc86/iCam-releases/releases/download/v3.6.1/iCam-macOS.dmg) · Apple Silicon M1–M4 · bản 3.5 |
 
 Mọi phiên bản và ghi chú thay đổi: mục [Releases](https://github.com/dienmoc86/iCam-releases/releases).
 
